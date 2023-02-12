@@ -1,0 +1,10 @@
+public class ArithmeticOperator02{
+	//编写一个main
+	public static void main(String[]agrs) {
+    int days=59;
+    int weeks=59/7;
+    int leftdays=59%7;
+    System.out.println(days+"天" + weeks+"周"+leftdays+"天");
+}
+	}
+		

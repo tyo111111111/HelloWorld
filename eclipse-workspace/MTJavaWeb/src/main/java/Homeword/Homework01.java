@@ -1,0 +1,8 @@
+package Homeword;
+public class Homework01{
+	//编写一个main方法
+	public static void main(String[] args){
+		System.out.println("姓名\t性别\t籍贯\t住址\n唐亚欧\t男\t辽宁\t东京");
+		
+	}
+}

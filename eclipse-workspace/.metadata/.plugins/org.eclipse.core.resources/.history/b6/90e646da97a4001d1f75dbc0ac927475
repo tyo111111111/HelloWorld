@@ -1,0 +1,11 @@
+public class lianxi{
+	public static void main(String[] args ) {
+		String c1="姓名";
+		String c2="年龄";
+		System.out.println("姓名 +年龄");
+	
+		
+	}
+	
+	
+}

@@ -1,0 +1,27 @@
+
+//演示char基本使用
+
+public class Char01{
+	public static void main(String[] args) {
+		char c1 ='a';
+		char c2 ='\t';
+		char c3 ='韩';
+		char c4 =97;//字符可以存放数字
+		System.out.println(c1);
+		System.out.println(c2);
+		System.out.println(c3);
+		System.out.println(c4);
+		char c5 =97;
+		System.out.println(c5);
+		char c6 ='a';
+		System.out.println((int)c6);
+		char c7 ='韩';
+		System.out.println((int)c7);
+		char c8 = 38889;
+		System.out.println(c8);
+		System.out.println('a'+10);		
+	    char c9 ='b' +1;
+	    System.out.println((int)c9);
+	    System.out.println(c9);
+	}
+}

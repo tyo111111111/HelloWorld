@@ -1,0 +1,6 @@
+public class Var02 {
+	
+	//编写一个main
+	public static void main(String[] args) {
+		}
+	}

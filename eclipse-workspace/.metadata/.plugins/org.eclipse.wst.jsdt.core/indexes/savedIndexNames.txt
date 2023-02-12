@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/tangyaou/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3981281017.index
+1940066144.index
+2809396517.index
+3055693733.index
+1697373955.index
+946255823.index

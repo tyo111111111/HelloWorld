@@ -1,0 +1,12 @@
+public class HomeWork02{
+	//编写一个main方法
+	public static void main(String[] args) {
+		
+		String book1 = "天龙八部";
+		String book2 = "笑傲江湖";
+		System.out.println(book1 + book2);
+		
+		
+}
+	}
+		

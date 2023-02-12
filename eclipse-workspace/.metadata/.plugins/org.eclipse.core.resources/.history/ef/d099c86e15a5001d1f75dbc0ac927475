@@ -1,0 +1,9 @@
+public  class LogicOperator02{
+	public static void main(String[] args) {
+	
+		int  age = 50;
+		if (age>20 || age<30) {
+		System.out.println("ok200");
+}
+   }
+	 }

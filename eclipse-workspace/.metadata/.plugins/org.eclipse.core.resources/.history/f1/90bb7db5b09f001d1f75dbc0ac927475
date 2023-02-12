@@ -1,0 +1,7 @@
+public class ChangeCharExe01{
+	public static void main(String[] args) {
+	
+	System.out.println("书名\t作者\t 价格\t销量\t三国罗贯中1201000");
+	
+	}
+}

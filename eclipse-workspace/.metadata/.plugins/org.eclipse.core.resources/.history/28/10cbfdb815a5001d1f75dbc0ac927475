@@ -1,0 +1,9 @@
+public  class LogicOperator02{
+	public static void main(String[] args) {
+	
+		
+		System.out.println(60>20);
+		System.out.print(!(60>20));
+}
+   }
+	 

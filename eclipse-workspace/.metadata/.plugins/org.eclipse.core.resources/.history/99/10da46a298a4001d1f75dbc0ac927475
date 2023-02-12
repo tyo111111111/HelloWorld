@@ -1,0 +1,14 @@
+public class lianxi{
+	public static void main(String[] args ) {
+		String c1="姓名";
+		String c2="年龄";
+		String c3="成绩";
+		String c4="性别";
+		String c5="爱好";
+		System.out.println("姓名\t年龄\t成绩\t爱好\t储存\t\n小唐\t28\t100\t滑雪");
+	
+		
+	}
+	
+	
+}

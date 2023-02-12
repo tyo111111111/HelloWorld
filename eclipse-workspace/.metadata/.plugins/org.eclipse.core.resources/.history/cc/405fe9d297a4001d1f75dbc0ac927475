@@ -1,0 +1,11 @@
+public class lianxi{
+	public static void main(String[] args ) {
+		char i1 = '\n';
+		char i2 = '\t';
+		System.out.println(i1);
+		System.out.println(i2);
+		
+	}
+	
+	
+}

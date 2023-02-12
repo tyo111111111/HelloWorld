@@ -1,0 +1,10 @@
+public class FloatDetail{
+	//编写一个main方法
+	public static void main(String[] args) {
+		
+		//float n1 = 1.1;//不对
+		float num2 =1.1f;//对
+		double num3 =1.1;//对
+		double num4 =1.1f;//对
+ }
+	}
